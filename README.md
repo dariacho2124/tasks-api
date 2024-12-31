@@ -15,6 +15,13 @@
 Esta API proporciona endpoints para gestionar usuarios y tareas. Los endpoints de tareas están protegidos mediante autenticación JWT, y los usuarios deben iniciar sesión para obtener un token.
 
 ---
+## Tecnologías utilizadas
+
+- **Node.js**: Entorno de ejecución para JavaScript.
+- **Express**: Framework web para Node.js.
+- **MongoDB**: Base de datos NoSQL para almacenamiento de datos.
+- **JWT**: Manejo de autenticación.**pluss**
+
 
 ## Autenticación
 
